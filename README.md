@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **iQ19**
 
 🚀 **Newbie Developer | Linux & Termux Enthusiast**
+
 ![Deskripsi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3puNHY0MTd0cmpicmtwOW5paGJxNXBnemMzdDRwOHVwNXl4ZmsydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8iAvtDaf42Oc/giphy.gif)
 
 Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux**, **Terminal**, dan **Open Source**. Saya terbiasa menggunakan **Linux** dan **Termux** sebagai lingkungan utama untuk ngoding, eksperimen, dan eksplorasi sistem.
