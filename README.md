@@ -35,14 +35,6 @@ Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux
 * Git & GitHub
 * VS Code / Nano / Vim
 
-### 🌐 Web (Learning)
-
-* HTML
-* CSS
-* JavaScript (Basic)
-* PHP (Basic)
-###
-
 ### 🔐 Networking & Security (Learning)
 
 * Bash Scripting
