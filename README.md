@@ -84,10 +84,3 @@ Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux
 
 ---
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHNURINDRAJAYAS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
