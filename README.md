@@ -25,7 +25,6 @@ Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux
 
 ###
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 System & Tools
@@ -63,39 +62,6 @@ Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux
 
 ###
 
-
----
-
-## 📂 My Projects
-
-🔹 **Web Absensi Sederhana**
-🔹 **Script Scan IP Satu Jaringan**
-🔹 **Linux & Termux Experiment Projects**
-
-> Semua project di sini adalah bagian dari proses belajar saya 🚧
-
----
-
-## 🤝 Let's Connect
-
-* 💬 Diskusi seputar Linux & Termux
-* 🌐 Open source collaboration
-* 📌 Belajar bareng dan berkembang bersama
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Indra Jaya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Indra%20Jaya&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/MUHNURINDRAJAYAS/MUHNURINDRAJAYAS/output/snake.svg" alt="Snake animation" />
 
 ###
