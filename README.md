@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **iQ19.**
+# 👋 Hi, I'm **iQ19**
 
 🚀 **Newbie Developer | Linux & Termux Enthusiast**
 
