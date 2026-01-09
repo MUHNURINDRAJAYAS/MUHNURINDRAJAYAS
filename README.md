@@ -2,7 +2,7 @@
 
 🚀 **Newbie Developer | Linux & Termux Enthusiast**
 
-![Deskripsi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3puNHY0MTd0cmpicmtwOW5paGJxNXBnemMzdDRwOHVwNXl4ZmsydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8iAvtDaf42Oc/giphy.gif)
+![Deskripsi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB6dDFldm8zYmgyZzBzejVjMWljemZnMmZ0N20ycm5waWc1dm84OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbB1CV1fazlGo/giphy.gif)
 
 Saya adalah developer pemula yang sedang belajar dan berkembang di dunia **Linux**, **Terminal**, dan **Open Source**. Saya terbiasa menggunakan **Linux** dan **Termux** sebagai lingkungan utama untuk ngoding, eksperimen, dan eksplorasi sistem.
 
